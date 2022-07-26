@@ -42,7 +42,7 @@ Set the config values for environment variables prefixed with `AWS_` in `set_env
 ### 3. Backend API
 Launch the backend API locally. The API is the application's interface to S3 and the database.
 
-* To download all the package dependencies, run the command from the directory `udagram-api/`:
+* To download all the package dependencies, run the command from the directory `udagram-api/`
     ```bash
     npm install .
     ```
@@ -55,7 +55,7 @@ Launch the backend API locally. The API is the application's interface to S3 and
 ### 4. Frontend App
 Launch the frontend app locally.
 
-* To download all the package dependencies, run the command from the directory `udagram-frontend/`:
+* To download all the package dependencies, run the command from the directory `udagram-frontend/`
     ```bash
     npm install .
     ```
